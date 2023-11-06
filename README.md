@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chintubharath11
-- 👀 I’m interested in webdevelopment and product design
-- 🌱 I’m currently learning how to create responsive webdesign
+- 👀 Right now working on springboot
+- 🌱 I’m currently learning how to develop microservices with springboot
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me conctact me through my email chintubharath06062001@gmail.com
 
